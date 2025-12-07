@@ -5,4 +5,4 @@ Master Data Management analysis demonstrating data quality, deduplication, and e
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 Portfolio Project: Master Data Management Analysis
-GitHub: github.com/your-username/mdm-contact-deduplication-project
+GitHub: github.com/rgluisfin-ui/mdm-contact-deduplication-project
